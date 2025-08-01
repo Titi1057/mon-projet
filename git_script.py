@@ -88,6 +88,10 @@
     "\n",
     "\n",
     "print(\"Résumé des activités sauvegardé dans 'resume.txt'.\")"
-  
+   # Script mis à jour pour démonstration GitHub
+     print("Modification de test pour GitHub")
+
+
+ 
 
  
